@@ -2,9 +2,9 @@
 
 <br>
 <p>
-  <img height = "300" src = "https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/18323/icon_20201214_101851.jpeg">
+  <img height = "200" src = "https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/icon/18323/icon_20201214_101851.jpeg">
   &emsp;&emsp;
-  <img height = "300" src = "https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/image/11836/D71445BE-1C6D-4509-A306-9D0F39243D16.png">
+  <img height = "200" src = "https://object-storage.tyo1.conoha.io/v1/nc_df3bdbc45bc04950b558834f5728517a/unityroom_production/image/11836/D71445BE-1C6D-4509-A306-9D0F39243D16.png">
 </p>
 <br>
 
